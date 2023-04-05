@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on finishing the coding bootcamp App Acamedy
-- 🌱 I’m currently learning Python and Flask
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about Soft Skills
