@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finishing the coding bootcamp App Acamedy
+- 🔭 I’m currently working on improving my portfolio
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Docker
