@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving my portfolio
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working on building a chatbot focused application
+- 🌱 I’m currently learning more about user auth methods
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Docker
+- 🤔 I’m looking for help with Web Scraping
 - 💬 Ask me about Soft Skills
 - 📫 How to reach me: https://www.linkedin.com/in/brennan-cota-11768aa6/
 - 😄 Pronouns: He/Him
