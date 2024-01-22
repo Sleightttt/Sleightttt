@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a chatbot focused application
-- 🌱 I’m currently learning more about user auth methods
+- 🔭 I’m currently working on building a mobile and web app for the skateboarding community
+- 🌱 I’m currently learning more about Expo
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Web Scraping
 - 💬 Ask me about Soft Skills
