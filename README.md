@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building a mobile and web app for the skateboarding community
 - 🌱 I’m currently learning more about Expo
-- 👯 I’m looking to collaborate on open source projects
+- 🧑‍🤝‍🧑 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Web Scraping
 - 💬 Ask me about Soft Skills
 - 📫 How to reach me: https://www.linkedin.com/in/brennan-cota-11768aa6/
